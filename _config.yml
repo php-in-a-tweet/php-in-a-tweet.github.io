@@ -1,0 +1,8 @@
+url: http://php-in-a-tweet.github.io
+title: PHP in a Tweet
+
+# Build settings
+markdown: kramdown
+permalink: /tweets/:title
+sass:
+  style: compressed

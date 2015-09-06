@@ -1,0 +1,21 @@
+---
+layout: post
+title: class S
+twitter_url: https://twitter.com/fntlnz/status/634846928027709440
+author: fntlnz
+date: 2012-09-13 11:52:00
+categories: class
+---
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&lt;?php class S{static function __callStatic($k,$f){static <a href="https://twitter.com/search?q=%24s&amp;src=ctag">$s</a>;return <a href="https://twitter.com/search?q=%24k&amp;src=ctag">$k</a>==&#39;get&#39;?$s[$f[0]]:$s[$f[0]]=$f[1];}} <a href="https://t.co/lnDU9RujAy">https://t.co/lnDU9RujAy</a></p>&mdash; Fontana Lorenzo (@fntlnz) <a href="https://twitter.com/fntlnz/status/634846928027709440">August 21, 2015</a></blockquote>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut erat porta, pulvinar urna ut, vehicula augue. Curabitur consequat leo eu velit volutpat, in venenatis metus bibendum. Vivamus condimentum nulla sem, in euismod mi interdum et. Pellentesque ex lacus, pharetra finibus dapibus non, euismod pharetra neque. Duis maximus posuere tortor non dignissim. Nam sapien elit, laoreet id ante sed, accumsan dictum lacus. Vestibulum tincidunt dapibus nisi, ac mollis turpis accumsan sit amet. Aliquam erat volutpat. Vivamus ultrices ut quam sit amet interdum.
+
+Fusce auctor consectetur lacus quis accumsan. Donec sed est fermentum, ultrices urna sit amet, feugiat tellus. Pellentesque hendrerit rhoncus justo, sed consectetur nulla pretium eget. Cras id facilisis sapien, vel eleifend urna. In viverra fermentum arcu vitae tincidunt. Curabitur diam est, consectetur et nibh vitae, semper tincidunt ex. Nullam ut iaculis metus, hendrerit eleifend velit. Vestibulum metus nisl, porta eu elit vel, feugiat vehicula tortor. In blandit convallis ligula mollis volutpat. Curabitur ultricies, felis vel commodo laoreet, dolor nibh aliquam libero, sit amet finibus ex neque eget augue.
+
+Nam ut viverra mauris. Aenean eleifend nibh risus, non suscipit nisl ultrices eget. Aliquam dictum augue vitae nibh tempor eleifend. In sed leo maximus, gravida enim venenatis, lacinia arcu. Mauris eleifend risus lacinia mi imperdiet, ac molestie enim varius. Duis ac augue sit amet libero suscipit condimentum sit amet id mi. Ut maximus venenatis sapien, vestibulum blandit elit imperdiet non. Nunc laoreet, sem sed finibus rhoncus, ex enim condimentum diam, at commodo turpis sapien id turpis. Cras cursus felis eu varius eleifend. Mauris in faucibus arcu. In hac habitasse platea dictumst.
+
+Praesent consectetur ultrices ultricies. Vivamus non elit eget diam vestibulum fermentum. Phasellus et ante nibh. In consectetur consequat augue, ac imperdiet justo aliquet eget. Cras euismod venenatis scelerisque. Proin vel sagittis sapien, a congue libero. Maecenas elementum sapien vel est dignissim elementum. Fusce sit amet turpis lectus. Vestibulum sed rhoncus massa. Nunc venenatis et sapien et sodales. Quisque velit felis, tempus ac fringilla eget, sollicitudin et tellus. Phasellus sed facilisis purus, at bibendum orci. Maecenas consequat convallis rhoncus. Maecenas metus lorem, tincidunt nec metus eu, egestas facilisis augue.
+
+Vivamus dictum bibendum ligula. Maecenas efficitur egestas nulla, ac accumsan lectus facilisis ac. Suspendisse ac hendrerit nulla, sed ullamcorper lacus. Sed ipsum eros, vehicula ut pretium ut, ornare ac libero. In mattis arcu sit amet nibh posuere rutrum. Cras neque diam, ornare efficitur vehicula ut, posuere porta orci. Donec a consectetur eros. Donec laoreet cursus sapien, quis sagittis massa luctus ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec metus leo, hendrerit ut malesuada volutpat, fermentum sit amet massa. Donec pretium lacus ac neque vehicula vulputate. Nam tristique est eget ex tempor, eu laoreet risus semper. Mauris porttitor orci ac vestibulum porttitor.
+
