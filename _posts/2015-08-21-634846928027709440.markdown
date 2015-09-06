@@ -2,7 +2,6 @@
 layout: post
 title: 634846928027709440
 author: fntlnz
-date: 2015-08-21 10:57:00
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut erat porta, pulvinar urna ut, vehicula augue. Curabitur consequat leo eu velit volutpat, in venenatis metus bibendum.
