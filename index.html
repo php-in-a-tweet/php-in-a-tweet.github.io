@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<p>PHP in a Tweet is a <a href="https://en.wikipedia.org/wiki/Code_golf">code golf</a> game like <a href="http://140byt.es">140byt.es</a>, where you should write a valid PHP code in 140 bytes (the size of a tweet) and post it on Twitter.</p>
+
+<p>To add your tweet here <a href="https://github.com/php-in-a-tweet/php-in-a-tweet.github.io#fork-destination-box">fork the website on GitHub</a> and add your tweet to the <kbd>_posts</kbd> directory following <a href="https://github.com/php-in-a-tweet/php-in-a-tweet.github.io/tree/master/_posts">current examples</a>.</p>
+
+<h2 id="game-rules">Game rules</h2>
+
+<ol>
+  <li>The tweet <strong>have</strong> to be a well-formed PHP code. You can check the right syntax using <kbd>php -l tweet.php</kbd> as described here: <a href="http://php.net/manual/en/function.php-check-syntax.php">php.net/manual/en/function.php-check-syntax.php</a></li>
+  <li>A code is taggable <strong>only</strong> using things like <code>echo "#php";</code> or <code>return "#error";</code> but still keeping your tweet a well-formed PHP code</li>
+  <li>Open (<code>&lt;?</code> and <code>&lt;?php</code>) and close (<code>?&gt;</code>) tags are <strong>not recommended</strong></li>
+</ol>
+
+<h2 id="tweets">Tweets</h2>
+
 <div class="row">
 	{% for post in site.posts %}
 		<div class="col-md-4">
