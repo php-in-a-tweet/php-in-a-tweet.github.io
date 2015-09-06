@@ -1,15 +1,15 @@
 ---
 layout: post
-title: class S
-twitter_url: https://twitter.com/fntlnz/status/634846928027709440
+title: 634846928027709440
 author: fntlnz
-date: 2012-09-13 11:52:00
-categories: class
+date: 2015-08-21 10:57:00
 ---
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&lt;?php class S{static function __callStatic($k,$f){static <a href="https://twitter.com/search?q=%24s&amp;src=ctag">$s</a>;return <a href="https://twitter.com/search?q=%24k&amp;src=ctag">$k</a>==&#39;get&#39;?$s[$f[0]]:$s[$f[0]]=$f[1];}} <a href="https://t.co/lnDU9RujAy">https://t.co/lnDU9RujAy</a></p>&mdash; Fontana Lorenzo (@fntlnz) <a href="https://twitter.com/fntlnz/status/634846928027709440">August 21, 2015</a></blockquote>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut erat porta, pulvinar urna ut, vehicula augue. Curabitur consequat leo eu velit volutpat, in venenatis metus bibendum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut erat porta, pulvinar urna ut, vehicula augue. Curabitur consequat leo eu velit volutpat, in venenatis metus bibendum. Vivamus condimentum nulla sem, in euismod mi interdum et. Pellentesque ex lacus, pharetra finibus dapibus non, euismod pharetra neque. Duis maximus posuere tortor non dignissim. Nam sapien elit, laoreet id ante sed, accumsan dictum lacus. Vestibulum tincidunt dapibus nisi, ac mollis turpis accumsan sit amet. Aliquam erat volutpat. Vivamus ultrices ut quam sit amet interdum.
+<!--more-->
+
+Vivamus condimentum nulla sem, in euismod mi interdum et. Pellentesque ex lacus, pharetra finibus dapibus non, euismod pharetra neque. Duis maximus posuere tortor non dignissim. Nam sapien elit, laoreet id ante sed, accumsan dictum lacus. Vestibulum tincidunt dapibus nisi, ac mollis turpis accumsan sit amet. Aliquam erat volutpat. Vivamus ultrices ut quam sit amet interdum.
 
 Fusce auctor consectetur lacus quis accumsan. Donec sed est fermentum, ultrices urna sit amet, feugiat tellus. Pellentesque hendrerit rhoncus justo, sed consectetur nulla pretium eget. Cras id facilisis sapien, vel eleifend urna. In viverra fermentum arcu vitae tincidunt. Curabitur diam est, consectetur et nibh vitae, semper tincidunt ex. Nullam ut iaculis metus, hendrerit eleifend velit. Vestibulum metus nisl, porta eu elit vel, feugiat vehicula tortor. In blandit convallis ligula mollis volutpat. Curabitur ultricies, felis vel commodo laoreet, dolor nibh aliquam libero, sit amet finibus ex neque eget augue.
 

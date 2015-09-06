@@ -3,6 +3,6 @@ title: PHP in a Tweet
 
 # Build settings
 markdown: kramdown
-permalink: /tweets/:title
+permalink: /tweet/:title
 sass:
   style: compressed

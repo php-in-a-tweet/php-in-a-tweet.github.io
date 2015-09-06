@@ -1,7 +1,5 @@
-<h5>
-	<a href="{{ post.url }}">{{ post.title }}</a>
-</h5>
-
 <blockquote class="twitter-tweet">
-	<a href="{{ post.twitter_url }}"></a>
+	<a href="https://twitter.com/{{ post.author }}/status/{{ post.title }}"></a>
 </blockquote>
+
+{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}">Read more...</a>
